@@ -55,37 +55,37 @@ gcc main.c modules/auth.c modules/expenses.c modules/string_utils.c -o bms
 ### Register & Login
 
 <p align="center">
-  <img src="screenshots/login.png" width="700">
+  <img src="screenshots/login.png" width="600">
 </p>
 
 ### Set Budget
 
 <p align="center">
-  <img src="screenshots/set_budget.png" width="700">
+  <img src="screenshots/set_budget.png" width="600">
 </p>
 
 ### Add & Update Expense
 
 <p align="center">
-  <img src="screenshots/expenses.png" width="700">
+  <img src="screenshots/expenses.png" width="600">
 </p>
 
 ### Generate Report & Remaining Budget
 
 <p align="center">
-  <img src="screenshots/track_expense.png" width="700">
+  <img src="screenshots/track_expense.png" width="600">
 </p>
 
 ### Reset Budget
 
 <p align="center">
-  <img src="screenshots/reset.png" width="700">
+  <img src="screenshots/reset.png" width="600">
 </p>
 
 ### Budget Alert
 
 <p align="center">
-  <img src="screenshots/alert.png" width="700">
+  <img src="screenshots/alert.png" width="600">
 </p>
 
 
