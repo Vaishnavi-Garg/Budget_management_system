@@ -55,22 +55,22 @@ gcc main.c modules/auth.c modules/expenses.c modules/string_utils.c -o bms
 ##  Screenshots
 
 * Register and login
-![login feature](<login (2).png>)
+![login feature](screenshots/login.png)
 
 * Set Budget
-![set budget](set_budget.png)
+![set budget](screenshots/set_budget.png)
 
 * Add  and update Expense
-![expense features](expenses.png)
+![expense features](screenshots/expenses.png)
 
 * Generate Report and check Remaining Budget
-![tracking features](<track expense.png>)
+![tracking features](screenshots/track_expense.png)
 
 * Reset budget
-![Reset budget](reset.png)
+![Reset budget](screenshots/reset.png)
 
 * Alert system
-![expense alert](alert.png)
+![expense alert](screenshots/alert.png)
 
 
 ##  Author
